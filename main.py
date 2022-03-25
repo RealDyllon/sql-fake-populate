@@ -1,8 +1,8 @@
 def main():
-    mainMenu()
+    main_menu()
 
 
-def mainMenu():
+def main_menu():
     print("""SQL Faker Populate
           1. Create Tables
           2. Populate Tables
@@ -11,6 +11,12 @@ def mainMenu():
           """)
     option = int(input('Enter your choice: '))
     print("selected option: ", option)
+    # todo: case switch here
+
+
+def create_tables():
+    # todo
+    return
 
 
 # run script
