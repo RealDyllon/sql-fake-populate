@@ -14,8 +14,12 @@ def main_menu():
     # todo: case switch here
 
 
-
 def create_tables():
+    # todo
+    return
+
+
+def populate_tables():
     # todo
     return
 
