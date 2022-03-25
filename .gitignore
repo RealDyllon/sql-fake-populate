@@ -131,3 +131,6 @@ dmypy.json
 # virtualenv
 virtual_env
 /.idea/
+
+# credentials
+/credentials.yaml

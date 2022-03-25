@@ -1,5 +1,11 @@
+
+
+
+
 def main():
     main_menu()
+
+
 
 
 def main_menu():
@@ -12,7 +18,6 @@ def main_menu():
     option = int(input('Enter your choice: '))
     # print("selected option: ", option)
     # todo: case switch here
-
 
 def create_tables():
     # todo
