@@ -10,8 +10,9 @@ def main_menu():
           4. Drop Tables
           """)
     option = int(input('Enter your choice: '))
-    print("selected option: ", option)
+    # print("selected option: ", option)
     # todo: case switch here
+
 
 
 def create_tables():

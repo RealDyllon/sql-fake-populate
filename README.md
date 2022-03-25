@@ -3,10 +3,10 @@ populate sql tables with a python script
 
 # instALL
 
-1. Create and launch a venv: 
+1. Install poetry (https://python-poetry.org/) 
+2. Setup poetry project: 
    ```bash
-      pip3 install virtualenv
-      python3 -m venv virtual_env
-      source virtual_env/bin/activate
+      poetry install
+      poetry run python3 main.py
    ```
-2. Run `python3 main.py`
+3. Run `python3 main.py`
