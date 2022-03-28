@@ -9,4 +9,3 @@ populate sql tables with a python script
       poetry install
       poetry run python3 main.py
    ```
-3. Run `python3 main.py`
