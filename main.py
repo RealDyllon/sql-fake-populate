@@ -1,5 +1,8 @@
-def main():
+from utils.connect import connect_to_db
 
+
+def main():
+    connect_to_db()
     main_menu()
 
 

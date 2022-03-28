@@ -133,4 +133,4 @@ virtual_env
 /.idea/
 
 # credentials
-/credentials.yaml
+/secrets/credentials.yaml
